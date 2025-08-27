@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class CapturaHotSpot : MonoBehaviour
+public class rayCast : MonoBehaviour
 {
     LayerMask layerMask;
 
